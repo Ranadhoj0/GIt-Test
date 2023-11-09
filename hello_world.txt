@@ -1,1 +1,4 @@
 Hello It is me prajaya learning git and git hub from the odins project
+Self Practice
+
+
